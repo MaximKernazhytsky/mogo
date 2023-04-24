@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/raleway/Raleway-Regular.woff2') format('woff2'),
+        url('../fonts/raleway/Raleway-Regular.woff') format('woff'),
+        url('../fonts/raleway/Raleway-Regular.eot') format('embedded-opentype'),
+        url('../fonts/raleway/Raleway-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RalewaySemiBold';
+    src: url('../fonts/raleway/Raleway-SemiBold.woff2') format('woff2'),
+        url('../fonts/raleway/Raleway-SemiBold.woff') format('woff'),
+        url('../fonts/raleway/Raleway-SemiBold.eot') format('embedded-opentype'),
+        url('../fonts/raleway/Raleway-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('../fonts/raleway/Raleway-Bold.woff2') format('woff2'),
+        url('../fonts/raleway/Raleway-Bold.woff') format('woff'),
+        url('../fonts/raleway/Raleway-Bold.eot') format('embedded-opentype'),
+        url('../fonts/raleway/Raleway-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/montserrat/montserrat-regular.woff2') format('woff2'),
+        url('../fonts/montserrat/montserrat-regular.woff') format('woff'),
+        url('../fonts/montserrat/montserrat-regular.eot') format('embedded-opentype'),
+        url('../fonts/montserrat/montserrat-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontserratSemiBold';
+    src: url('../fonts/montserrat/montserrat-semibold.woff2') format('woff2'),
+        url('../fonts/montserrat/montserrat-semibold.woff') format('woff'),
+        url('../fonts/montserrat/montserrat-semibold.eot') format('embedded-opentype'),
+        url('../fonts/montserrat/montserrat-semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontserratBold';
+    src: url('../fonts/montserrat/montserrat-bold.woff2') format('woff2'),
+        url('../fonts/montserrat/montserrat-bold.woff') format('woff'),
+        url('../fonts/montserrat/montserrat-bold.eot') format('embedded-opentype'),
+        url('../fonts/montserrat/montserrat-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('../fonts/kaushan_script/KaushanScript-Regular.woff2') format('woff2'),
+        url('../fonts/kaushan_script/KaushanScript-Regular.woff') format('woff'),
+        url('../fonts/kaushan_script/KaushanScript-Regular.eot') format('embedded-opentype'),
+        url('../fonts/kaushan_script/KaushanScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
